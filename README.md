@@ -6,3 +6,7 @@ Olá pra você que escolheu esse repositório! Nessa repositório você vai enco
 ## [⚠Me Ajude](https://www.youtube.com/channel/UCxKIsX5OXyyNWVmomuDc-LA?sub_confirmation=1)
 # Preview
 ![Como-Criar-um-SITE-Com-HTML-e-CSS-na-prática](/Como-Criar-um-SITE-Com-HTML-e-CSS-na-prática.png)
+
+
+Para criar um scrip, primeiramente eu tenho que criar um arquivo e nomear o mesmo, dpois dar a permissão de execução para o mesmo
+na sequencia irei descrever o conteudo do script
